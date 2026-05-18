@@ -46,8 +46,8 @@ Generate business insights and recommendations
 Create project report and presentation deck
 🚀 How to Use This Project
 1️⃣ Clone the Repository
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone https://github.com/HarshitaSingh2005/Customer-trends.git
+cd customer-trends 
 2️⃣ Open the Jupyter Notebook
 
 Open the notebook file:
